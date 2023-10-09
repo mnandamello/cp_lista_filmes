@@ -1,0 +1,142 @@
+[
+  {
+    "id" 		      :	"1",
+    "Nome"		    :	"Viva a vida é uma festa",
+    "dtLancamento":	"04/01/2018",
+    "capa"		    :	"viva_a_vida_e_uma_festa",
+    "genero"		  :	"Animação"
+  },
+  {
+    "id" 		      :	"2",
+    "Nome"		    :	"Irmão urso",
+    "dtLancamento":	"12/12/2003",
+    "capa"		    :	"irmao_urso",
+    "genero"		  :	"Animação"
+  },
+  {
+    "id" 		      :	"3",
+    "Nome"		    :	"Pantera Negra: Wakanda para sempre",
+    "dtLancamento":	"10/11/2022",
+    "capa"		    :	"wakanda_para_sempre",
+    "genero"		  :	"Ação"
+  },
+  {
+    "id" 		      :	"4",
+    "Nome"		    :	"Hércules",
+    "dtLancamento":	"27/06/1997",
+    "capa"		    :	"hercules",
+    "genero"		  :	"Animação"
+  },
+  {
+    "id" 		      :	"5",
+    "Nome"		    :	"Tarzan",
+    "dtLancamento":	"02/07/1999",
+    "capa"		    :	"tarzan",
+    "genero"		  :	"Animação"
+  },
+  {
+    "id" 		      :	"6",
+    "Nome"		    :	"Avatar: Caminho Da Água",
+    "dtLancamento":	"15/12/2022",
+    "capa"		    :	"caminho_da_agua",
+    "genero"		  :	"Ficção Científica"
+  },
+  {
+    "id" 		      :	"7",
+    "Nome"		    :	"Os Incriveis",
+    "dtLancamento":	"10/12/2004",
+    "capa"		    :	"os_incriveis",
+    "genero"		  :	"Animação"
+  },
+  {
+    "id" 		      :	"8",
+    "Nome"		    :	"Elementos",
+    "dtLancamento":	"15/06/2023",
+    "capa"		    :	"elementos",
+    "genero"		  :	"Animação"
+  },
+  {
+    "id" 		      :	"9",
+    "Nome"		    :	"Procurando Nemo",
+    "dtLancamento":	"30/05/2003",
+    "capa"		    :	"procurando_nemo",
+    "genero"		  :	"Animação"
+  },
+  {
+    "id" 		      :	"10",
+    "Nome"		    :	"O Rei Do Show",
+    "dtLancamento":	"28/12/2017",
+    "capa"		    :	"o_rei_do_show",
+    "genero"		  :	"Musical"
+  },  
+  {
+    "id" 		      :	"11",
+    "Nome"		    :	"Lilo e Stitch",
+    "dtLancamento":	"28/06/2002",
+    "capa"		    :	"lilo_e_stitch",
+    "genero"		  :	"Animação"
+  },  
+  {
+    "id" 		      :	"12",
+    "Nome"		    :	"Carros",
+    "dtLancamento":	"26/05/2006",
+    "capa"		    :	"carros",
+    "genero"		  :	"Animação"
+  },  
+  {
+    "id" 		      :	"13",
+    "Nome"		    :	"Enrolados",
+    "dtLancamento":	"24/11/2010",
+    "capa"		    :	"enrolados",
+    "genero"		  :	"Animação"
+  },  
+  {
+    "id" 		      :	"14",
+    "Nome"		    :	"Alladin: Live Action",
+    "dtLancamento":	"24/05/2019",
+    "capa"		    :	"alladin_live_action",
+    "genero"		  :	"Musical"
+  },  
+  {
+    "id" 		      :	"15",
+    "Nome"		    :	"Buzz Lightyear ",
+    "dtLancamento":	"16/06/2022",
+    "capa"		    :	"buzz_lightyear",
+    "genero"		  :	"Animação"
+  }, 
+  {
+    "id" 		      :	"16",
+    "Nome"		    :	"Esqueceram de mim",
+    "dtLancamento":	"16/11/1990",
+    "capa"		    :	"esqueceram_de_mim",
+    "genero"		  :	"Comédia"
+  }, 
+  {
+    "id" 		      :	"17",
+    "Nome"		    :	"High School Musical",
+    "dtLancamento":	"20/01/2006",
+    "capa"		    :	"high_school_musical",
+    "genero"		  :	"Musical"
+  }, 
+  {
+    "id" 		      :	"18",
+    "Nome"		    :	"A Era do Gelo 3",
+    "dtLancamento":	"01/07/2001",
+    "capa"		    :	"a_era_do_gelo_3",
+    "genero"		  :	"Animação"
+  }, 
+  {
+    "id" 		      :	"19",
+    "Nome"		    :	"Operação Big Hero",
+    "dtLancamento":	"7/11/2014",
+    "capa"		    :	"operação_big_hero",
+    "genero"		  :	"Animação"
+  }, 
+  {
+    "id" 		      :	"20",
+    "Nome"		    :	"Chicken Little",
+    "dtLancamento":	"04/11/2005",
+    "capa"		    :	"chicken_little",
+    "genero"		  :	"Animação"
+  }
+]
