@@ -41,3 +41,10 @@ main{
   align-items: center;
   background-color: #ffefd4;
 }
+
+.fundo{
+  background-image: url(../../public/bg.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 80vh;
+}
