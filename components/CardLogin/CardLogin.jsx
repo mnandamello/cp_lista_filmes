@@ -28,7 +28,7 @@ export default function CardLogin() {
       // Credenciais válidas, permita o acesso ao aplicativo
       toast.success('🦄 Login feito com sucesso', {
         position: "top-right",
-        autoClose: 2000,
+        autoClose: 1000,
         hideProgressBar: false,
         closeOnClick: true,
         pauseOnHover: true,

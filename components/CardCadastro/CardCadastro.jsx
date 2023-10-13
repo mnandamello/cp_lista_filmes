@@ -31,12 +31,12 @@ export default function CardCadastro() {
     setTimeout(() => {
       notify();
       window.location.href = '/Login';
-    }, 2100);
+    }, 1000);
   }
 
   const notify = () => toast('🦄 Cadastro criado!', {
     position: "top-right",
-    autoClose: 2000,
+    autoClose: 2100,
     hideProgressBar: false,
     closeOnClick: true,
     pauseOnHover: true,
